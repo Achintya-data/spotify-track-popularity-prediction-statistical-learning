@@ -4,6 +4,8 @@ This project analyzes Spotify track-level audio features and genre information t
 
 The work combines exploratory data analysis, statistical testing, feature-based modeling, and machine learning methods to understand the relationship between track characteristics and popularity.
 
+> **Start here:** [Final Report PDF](reports/final-report.pdf)
+
 ## Project Overview
 
 The analysis focuses on a Spotify dataset containing audio and metadata features such as:
